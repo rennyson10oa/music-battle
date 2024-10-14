@@ -1,5 +1,6 @@
 {
   "name": "@music-battle/api",
+  "private": "true",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsup src/server.ts",
